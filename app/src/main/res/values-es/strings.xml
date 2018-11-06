@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tVLanguage_text">" Idioma:"</string>
+    <string name="btnLogin_text">Iniciar sesión</string>
+    <string name="tVForgot_text">" ¿Olvidó sus datos de inicio de sesión? Ayuda con el inicio de sesión"</string>
+    <string name="tvOr_text">O</string>
+    <string name="tvFbLink_text">Inicia sesión con Facebook</string>
+    <string name="tvSignUpLink_text">" ¿No tienes una cuenta? Regístrate."</string>
+    <string name="username">Nombre</string>
+    <string name="password">Contraseña</string>
+</resources>

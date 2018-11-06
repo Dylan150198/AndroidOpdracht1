@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="tVLanguage_text">Language:</string>
+    <string name="btnLogin_text">Log in</string>
+    <string name="tVForgot_text">Forgot your login details? Get help signing in</string>
+    <string name="tvOr_text">Or</string>
+    <string name="tvFbLink_text">Log in with Facebook</string>
+    <string name="tvSignUpLink_text">Don\'t have an account? Sign up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tVLanguage_text">Taal:</string>
+    <string name="btnLogin_text">Inloggen</string>
+    <string name="tVForgot_text">Uw inloggegevens vergeten? Hulp bij inloggen</string>
+    <string name="tvOr_text">Of</string>
+    <string name="tvFbLink_text">Inloggen met Facebook</string>
+    <string name="tvSignUpLink_text">Heb je geen account? Inschrijven.</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="password">Wachtwoord</string>
+</resources>
