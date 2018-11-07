@@ -21,7 +21,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" android:id="@+id/tVLanguage" app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            android:layout_marginStart="112dp"/>
+            android:layout_marginStart="120dp"/>
+    <Spinner
+            android:layout_width="123dp"
+            android:layout_height="19dp"
+            android:id="@+id/sPLanguage" app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@+id/linearLayout3"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintVertical_bias="1.0" app:layout_constraintHorizontal_bias="0.379"/>
     <LinearLayout
             android:orientation="vertical"
             android:layout_width="368dp"
